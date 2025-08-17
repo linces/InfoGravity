@@ -349,3 +349,6 @@ Não precisa supor um computador externo. A tese é que **o universo se organiza
 * **Exportar CSV**: o notebook salva `radius, g_newton, g_eff, v_newton, v_eff` para plot externos.
 
 
+---
+
+Tem muito o que ser feito ainda, analisem o que foi feito até aqui. Não estou conseguindo avançar mais, creio que cheguei no meu limite. 
