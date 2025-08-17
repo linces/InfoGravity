@@ -14,7 +14,7 @@
 
   * [C++](#c)
   * [Python](#python)
-  * [Delphi (VCL/FM X)](#delphi-vclfmx)
+  * [Delphi (VCL/FMX)](#delphi-vclfmx)
   * [Demo 2D de Poisson Modificada](#demo-2d-de-poisson-modificada)
 * [Parâmetros & Tuning](#parâmetros--tuning)
 * [API de Referência](#api-de-referência)
