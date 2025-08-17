@@ -175,7 +175,7 @@ aI = ig.acceleration((1.0, 0.0, 0.0))
 print(aI)
 ```
 
-### Delphi (VCL/FM X)
+### Delphi (VCL/FMX)
 
 ```pascal
 uses uInfoGravity;
