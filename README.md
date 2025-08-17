@@ -330,7 +330,7 @@ Não precisa supor um computador externo. A tese é que **o universo se organiza
 
 ## Licença
 
-**MIT** — uso livre com atribuição. Veja `LICENSE`.
+**MIT** — uso livre com atribuição. 
 
 ---
 
