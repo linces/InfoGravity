@@ -1,6 +1,10 @@
 # InfoGravity: Gravidade como Compressão Informacional
 
 > **TL;DR**: Este repositório acopla um termo de **gravidade informacional** $\nabla\Phi_I$ a qualquer solver N-body e traz um **demo 2D** de Poisson modificada $\nabla\cdot(\mu\,\nabla\phi)=4\pi G\rho$. A proposta trata a gravidade como um efeito **entrópico-informacional** (compressão de dados do universo), recuperando Newton no limite clássico e sugerindo correções em baixa aceleração.
+>
+Baseado completamente no estudo do físico *Melvin Vopson "https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/melvin-vopson"*
+
+Vamos tentar dar algum sentido prático "se possível", tentar colocar código na teoria.
 
 ---
 
